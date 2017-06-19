@@ -11,3 +11,6 @@ RoxygenNote: 6.0.1
 Suggests: knitr,
     rmarkdown
 VignetteBuilder: knitr
+Imports:
+	 data.table (>= 1.9.4),
+	 dplyr
